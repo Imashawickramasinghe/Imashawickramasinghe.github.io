@@ -109,7 +109,7 @@ html{
     color: var(--green);
 }
 .home .row-left h2{
-    text-transform: uppercase;
+    
     font-family: var(--poppins);
     font-size: 1rem;
 }
